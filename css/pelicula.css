@@ -1,0 +1,12 @@
+body{
+  background-color: pink;
+}
+.bueno{
+  color: blue;
+}
+.bueno span{
+  font-weight: bold;
+}
+.malo{
+  color: darkred;
+}
